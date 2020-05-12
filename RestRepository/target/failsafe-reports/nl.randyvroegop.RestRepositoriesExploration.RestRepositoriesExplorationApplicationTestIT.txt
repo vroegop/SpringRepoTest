@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: nl.randyvroegop.RestRepositoriesExploration.RestRepositoriesExplorationApplicationTestIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.129 s <<< FAILURE! - in nl.randyvroegop.RestRepositoriesExploration.RestRepositoriesExplorationApplicationTestIT
+lotto_resource_returns_200_with_expected_id_and_winners  Time elapsed: 0.732 s  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at nl.randyvroegop.RestRepositoriesExploration.RestRepositoriesExplorationApplicationTestIT.lotto_resource_returns_200_with_expected_id_and_winners(RestRepositoriesExplorationApplicationTestIT.java:22)
+
